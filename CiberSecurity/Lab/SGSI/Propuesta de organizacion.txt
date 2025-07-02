@@ -1,0 +1,26 @@
+Equipo: 2
+
+Nombre:
+True Score IA
+
+Descripción:
+True Score IA es una plataforma digital deportiva que utiliza inteligencia artificial neuronal para realizar análisis estadísticos predictivos sobre eventos deportivos. La plataforma ofrece porcentajes de probabilidad, estadísticas personalizadas y proyecciones futuras. Los usuarios pueden acceder desde cualquier parte del mundo, con servicios diferenciados para miembros premium y no premium.	
+
+Escenario:
+Los usuarios acceden a la página web o aplicación móvil desde sus dispositivos. Al ingresar, pueden crear una cuenta o iniciar sesión. Una vez dentro, exploran los análisis deportivos disponibles, filtrando por deporte, liga o evento. Si desean predicciones más precisas o detalladas, pueden optar por adquirir una membresía premium.
+
+Los usuarios premium acceden a dashboards personalizados con proyecciones más avanzadas, recomendaciones basadas en su historial y predicciones exclusivas. Al realizar una suscripción, deben ingresar sus datos personales (nombre, país, correo electrónico y método de pago).
+
+Proceso:
+Ingreso de usuarios, Exploración de análisis, compra / suscripciones, Personalización de servicios, Retroalimentación y mejoras continuas.
+
+Personas:
+Usuarios No Premium, Usuarios Premium, Equipo de Desarrollo, Analistas Deportivos, Soporte Técnico y Atención al Cliente, Equipo de Marketing y Ventas.
+
+Tecnologías:
+Frontend WEB y APP, Backend, DataBase, IA neuronal, Infraestructura cloud y Pasarela de pago.
+
+Rol:
+Auditor.
+
+
